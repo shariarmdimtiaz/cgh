@@ -20,14 +20,18 @@ NOVO-CGH | [Paper](https://opg.optica.org/optica/fulltext.cfm?uri=optica-4-10-13
 
 Wringtinger holography | [Paper](https://www.cs.princeton.edu/~fheide/wirtingerholography) | [Code](https://github.com/dongheon-yoo/Wirtinger-holography)
 
-Michelson Holography [Link](https://www.computationalimaging.org/publications/michelsonholography/)
+Michelson Holography | [Link](https://www.computationalimaging.org/publications/michelsonholography/)
 
 Multi-depth Hologram Generation | [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-10-15089&id=450644)
 
 # Machine/Deep learning-based Techniques
 
 DeepCGH | [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-18-26636&id=437573) | [Code](https://github.com/UNC-optics/DeepCGH)
-[Neural Holography](https://www.computationalimaging.org/publications/neuralholography/) | [Paper](http://www.computationalimaging.org/wp-content/uploads/2020/08/NeuralHolography_SIGAsia2020.pdf) | [Code](https://github.com/computational-imaging/neural-holography)
+
+Neural Holography | [Link](https://www.computationalimaging.org/publications/neuralholography/) | [Paper](http://www.computationalimaging.org/wp-content/uploads/2020/08/NeuralHolography_SIGAsia2020.pdf) | [Code](https://github.com/computational-imaging/neural-holography)
+
 Tensor Holography | [Paper](http://cgh.csail.mit.edu/) | [Code](https://github.com/liangs111/tensor_holography)
-GAN-Holo | [Paper](https://www.hindawi.com/journals/complexity/2021/6662161/) | [Code]()
-Autoencoder CGH | [Paper](https://opg.optica.org/ol/fulltext.cfm?uri=ol-46-12-2908&id=451870) | [Code]()
+
+GAN-Holo | [Paper](https://www.hindawi.com/journals/complexity/2021/6662161/) |
+
+Autoencoder CGH | [Paper](https://opg.optica.org/ol/fulltext.cfm?uri=ol-46-12-2908&id=451870) |
